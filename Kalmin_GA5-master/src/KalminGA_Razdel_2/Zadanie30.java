@@ -33,7 +33,6 @@ public class Zadanie30 {
 
         for (int i5 = 0; i5 < 8; i5++) { 
 
-            // ищем максимум в строке i5
             int max = matrica5[i5][0];
             int kolonkaMax = 0;
 
@@ -58,3 +57,4 @@ public class Zadanie30 {
         }
     }
 }
+
